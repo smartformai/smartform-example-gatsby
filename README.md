@@ -1,4 +1,4 @@
-# SmartForm + Gatsby
+# Gatsby contact form — Formspree alternative with AI spam filtering
 
 Contact form for a Gatsby site, posting JSON to SmartForm AI.
 
